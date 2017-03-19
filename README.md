@@ -1,5 +1,4 @@
 ### Online Resources
 
-http://elixir-lang.org/
-
+http://elixir-lang.org/<br>
 https://elixircasts.io
