@@ -19,4 +19,4 @@ end
 IO.puts Math.sum(1,1)
 IO.puts Math.product(2,3)
 IO.puts Math.zero?(0)
-Io.puts Math.zero?(1)
+IO.puts Math.zero?(1)
